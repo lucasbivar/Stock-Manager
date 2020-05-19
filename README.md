@@ -8,7 +8,7 @@
   - PyQt5
 - Prototyping Software: 
   - Adobe XD
-- important observations:
+- Important observations:
   - At the first acess, you have to login with 'admin@stkmanager.com'(email) and 'admin123'(password);
   - Just the job role 'Owner' can register a new employee;
   - The project images were taken on the open-source website [unDraw](https://undraw.co/illustrations)
