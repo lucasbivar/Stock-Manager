@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://i.imgur.com/0Nf3ba9.png">
+</p>
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # Stock Manager
 - Beautifully designed Stock Manager desktop app for small stores made in Python.
 - Technologies: 
